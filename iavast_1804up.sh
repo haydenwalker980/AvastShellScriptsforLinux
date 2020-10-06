@@ -11,4 +11,4 @@ echo "Installing Avast step 3: Updating Apt and Installing Avast"
 sudo apt update
 sudo apt install avast
 echo "Step 3 done."
-zenity --info --text="Done installing Avast! Check the /etc/avast dir for avastlicense.lic
+zenity --info --text="Done installing Avast! Run the command /etc/avast to check if the app is there."
